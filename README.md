@@ -2,7 +2,7 @@
 
 The below model helps us in predicting the Air quality index for delhi region.
 
-1. we have scraped the previous year Air quality index data from the website https://en.tutiempo.net/climate
+1.We have scraped the previous year Air quality index data from the website https://en.tutiempo.net/climate .
 
 2.Once we scraped the data from 2013 to 2018 we have uploaded the CSV and cleaned the data.
 
